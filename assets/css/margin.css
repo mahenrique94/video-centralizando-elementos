@@ -1,0 +1,10 @@
+.centralizado {
+    background: red;
+    height: 100px;   
+    left: 50%;
+    margin-left: -200px;
+    margin-top: -50px;
+    position: absolute;
+    top: 50%;
+    width: 400px;
+}
